@@ -6,3 +6,4 @@ En este curso vemos de todo:
 - Todos los comandos de Git
 - El flojo de trabajo de Github
 - El verdadero amor por las buenas prácticas
+- Creado para aprender y probar nuevos comandos 

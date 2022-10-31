@@ -8,3 +8,4 @@ En este curso vemos de todo:
 - El verdadero amor por las buenas prácticas
 - Creado para aprender y probar nuevos comandos 
 - Incluye ejemplos en windows, linux y mac
+- Disponible para todas las edades
